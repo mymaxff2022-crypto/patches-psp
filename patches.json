@@ -3,16 +3,15 @@
     {
       "id": "bomba-patch-2027",
       "name": "Bomba Patch 2027 - PSP",
-      "description": "Câmera PS4 e câmera normal, com todas as narrações.",
-      "coverUrl": "https://SEU-SITE.com/arquivos/capa.jpg",
+      "description": "Câmera normal, com todas as narrações.",
+      "coverUrl": "https://github.com/mymaxff2022-crypto/patches-psp/releases/download/v1/NOVO.CAPA.jpg",
       "versionName": "v1 - Nov/2026",
       "isoVersion": 1,
       "texturesVersion": 1,
-      "gameId": "COLOQUE_O_ID_DO_JOGO",
-      "isoUrl": "https://SEU-SITE.com/arquivos/bomba-patch-2027.iso",
+      "gameId": "MYMAXFFNOVOS2026",
+      "isoUrl": "https://github.com/mymaxff2022-crypto/patches-psp/releases/download/v1/BOMBA.PPSSPP.MYMAX.CAMERA.NORMAL.iso",
       "isoFileName": "bomba-patch-2027.iso",
-      "texturesUrl": "https://SEU-SITE.com/arquivos/texturas.zip",
-      "configUrl": "https://SEU-SITE.com/arquivos/config_ppsspp.ini"
+      "texturesUrl": "https://github.com/mymaxff2022-crypto/patches-psp/releases/download/v1/MYMAXFFNOVOS2026.zip"
     }
   ]
 }
