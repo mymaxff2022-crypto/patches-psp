@@ -12,19 +12,6 @@
       "isoUrl": "https://github.com/mymaxff2022-crypto/patches-psp/releases/download/v1/BOMBA.PPSSPP.MYMAX.CAMERA.NORMAL.iso",
       "isoFileName": "bomba-patch-2027.iso",
       "texturesUrl": "https://github.com/mymaxff2022-crypto/patches-psp/releases/download/v1/MYMAXFFNOVOS2026.zip"
-    },
-    {
-      "id": "id-do-novo-patch",
-      "name": "Nome do Novo Jogo",
-      "description": "Descrição do patch.",
-      "coverUrl": "https://github.com/mymaxff2022-crypto/patches-psp/releases/download/v1/CAPA-NOVA.jpg",
-      "versionName": "v1 - Nov/2026",
-      "isoVersion": 1,
-      "texturesVersion": 1,
-      "gameId": "ID_DO_JOGO_NOVO",
-      "isoUrl": "https://github.com/mymaxff2022-crypto/patches-psp/releases/download/v1/ARQUIVO-NOVO.iso",
-      "isoFileName": "novo-jogo.iso",
-      "texturesUrl": "https://github.com/mymaxff2022-crypto/patches-psp/releases/download/v1/ID_DO_JOGO_NOVO.zip"
     }
   ]
 }
