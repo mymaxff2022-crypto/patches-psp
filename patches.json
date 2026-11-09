@@ -14,17 +14,20 @@
       "texturesUrl": "https://github.com/mymaxff2022-crypto/patches-psp/releases/download/v1/MYMAXFFNOVOS2026.zip"
     },
     {
-      "id": "Efootba-PSP",
-      "name": "Efootball",
-      "description": "Novo Efootball Câmera PS4.",
-      "coverUrl": "LINK-DA-CAPA",
-      "versionName": "v1",
+     {
+  "patches": [
+    {
+      "id": "bomba-patch-2027",
+      "name": "Bomba Patch 2027 - PSP",
+      "description": "Câmera normal, com todas as narrações.",
+      "coverUrl": "https://github.com/mymaxff2022-crypto/patches-psp/releases/download/v1/NOVO.CAPA.jpg",
+      "versionName": "v1 - Nov/2026",
       "isoVersion": 1,
       "texturesVersion": 1,
-      "gameId": "ID-DO-JOGO-NO-PPSSPP",
-      "isoUrl": "LINK-DIRETO-DA-ISO",
-      "isoFileName": "jogo-novo.iso",
-      "texturesUrl": "LINK-DIRETO-DO-ZIP"
+      "gameId": "MYMAXFFNOVOS2026",
+      "isoUrl": "https://github.com/mymaxff2022-crypto/patches-psp/releases/download/v1/BOMBA.PPSSPP.MYMAX.CAMERA.NORMAL.iso",
+      "isoFileName": "bomba-patch-2027.iso",
+      "texturesUrl": "https://github.com/mymaxff2022-crypto/patches-psp/releases/download/v1/MYMAXFFNOVOS2026.zip""
     }
   ]
 }
