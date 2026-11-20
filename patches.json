@@ -2,7 +2,6 @@
   "patches": [
     {
       "id": "bomba-patch-2027",
-      "emulator": "ppsspp",
       "name": "Bomba Patch 2027 - PSP",
       "description": "Câmera normal, com todas as narrações.",
       "coverUrl": "https://github.com/mymaxff2022-crypto/patches-psp/releases/download/v1/v1.CAPA.jpg",
@@ -12,8 +11,7 @@
       "gameId": "MYMAXFFNOVOS2026",
       "isoUrl": "https://github.com/mymaxff2022-crypto/patches-psp/releases/download/v1/BOMBA.PPSSPP.MYMAX.CAMERA.NORMAL.iso",
       "isoFileName": "bomba-patch-2027.iso",
-      "texturesUrl": "https://github.com/mymaxff2022-crypto/patches-psp/releases/download/v1/MYMAXFFNOVOS2026.zip",
-      "postUrl": "https://mymaxff.tgamesandroid.com/2026/11/bomba-patch-2027-completo-para-psp-com-camera-ps4-camera-normal-varioas-narracao.html/"
+      "texturesUrl": "https://github.com/mymaxff2022-crypto/patches-psp/releases/download/v1/MYMAXFFNOVOS2026.zip"
     },
     {
       "id": "bomba-patch-ps2",
@@ -21,7 +19,7 @@
       "name": "Bomba Patch 2027 - PS2",
       "description": "Versão para PS2. Abre no AetherSX2.",
       "coverUrl": "https://github.com/mymaxff2022-crypto/patches-psp/releases/download/v2/CAPA.PS2.jpg",
-      "versionName": "v1 - Nov/2026",
+      "versionName": "ps2-v2 - Nov/2026",
       "isoVersion": 1,
       "isoUrl": "https://github.com/mymaxff2022-crypto/patches-psp/releases/download/v2/BOMBA_PATCH.PS2.MYMAX.ANDRE.HENNING.iso",
       "isoFileName": "bomba-patch-ps2.iso"
